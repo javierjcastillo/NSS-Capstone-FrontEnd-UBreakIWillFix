@@ -1,0 +1,341 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "fullName": "Matthew Windler",
+      "email": "dstoade0@cornell.edu",
+      "address": "208 Cayla Union",
+      "phoneNumber": "822-820-0128",
+      "isTech": false
+    },
+    {
+      "id": 2,
+      "fullName": "Jesus Harber",
+      "email": "wthorneloe1@usa.gov",
+      "address": "31616 Stiedemann Station",
+      "phoneNumber": "521-732-8695",
+      "isTech": false
+    },
+    {
+      "id": 3,
+      "fullName": "Robert Stanton",
+      "email": "hphillpotts2@rakuten.co.jp",
+      "address": "248 Bauch Landing",
+      "phoneNumber": "566-535-7305",
+      "isTech": false
+    },
+    {
+      "id": 4,
+      "fullName": "Andy Kihn",
+      "email": "hpassfield7@netvibes.com",
+      "address": "891 Talia Crest",
+      "phoneNumber": "891-604-4876",
+      "isTech": false
+    },
+    {
+      "id": 5,
+      "fullName": "Christie McKenzie",
+      "email": "fslator8@51.la",
+      "address": "778 Nova Fork",
+      "phoneNumber": "570-657-2787",
+      "isTech": false
+    },
+    {
+      "id": 6,
+      "fullName": "Josephine Reilly",
+      "email": "rerbe9@psu.edu",
+      "address": "0739 Howe Brook",
+      "phoneNumber": "667-412-3765",
+      "isTech": true
+    },
+    {
+      "email": "jeremy@bakker.com",
+      "fullName": "Toni Watsica",
+      "address": "6803 Rolfson Lights",
+      "phoneNumber": "383-233-1910",
+      "isTech": true,
+      "id": 7
+    },
+    {
+      "id": 8,
+      "fullName": "Javier Castillo",
+      "email": "javier@gmail.com",
+      "address": "2988 Main St",
+      "phoneNumber": "239-605-5988",
+      "isTech": false
+    }
+  ],
+  "tickets": [
+    {
+      "userId": 2,
+      "description": "Broke Again",
+      "deviceId": 2,
+      "repairCost": 79.99,
+      "id": 2
+    },
+    {
+      "id": 3,
+      "deviceId": 3,
+      "userId": 3,
+      "description": "Not Turning On",
+      "repairCost": 0
+    },
+    {
+      "id": 4,
+      "deviceId": 4,
+      "userId": 4,
+      "description": "Camera Doesn't Work",
+      "repairCost": 0
+    },
+    {
+      "id": 5,
+      "deviceId": 5,
+      "userId": 5,
+      "description": "Battery Life Too Short",
+      "repairCost": 0
+    },
+    {
+      "userId": 2,
+      "description": "Government is Tracking Me",
+      "deviceId": 8,
+      "id": 6,
+      "repairCost": 59.99
+    },
+    {
+      "userId": 1,
+      "description": "Screen is Broken.",
+      "deviceId": 18,
+      "repairCost": 149.99,
+      "id": 7
+    },
+    {
+      "userId": 8,
+      "description": "Phone screen is blacked out, the phone is functional needs a new screen.",
+      "deviceId": 22,
+      "repairCost": 299.99,
+      "id": 8
+    }
+  ],
+  "devices": [
+    {
+      "id": 1,
+      "deviceBrands": "Apple",
+      "deviceModels": "iPhone 14 Pro Max"
+    },
+    {
+      "id": 2,
+      "deviceBrands": "Apple",
+      "deviceModels": "iPhone 14 Pro"
+    },
+    {
+      "id": 3,
+      "deviceBrands": "Apple",
+      "deviceModels": "iPhone 14 Plus"
+    },
+    {
+      "id": 4,
+      "deviceBrands": "Apple",
+      "deviceModels": "iPhone 14"
+    },
+    {
+      "id": 5,
+      "deviceBrands": "Apple",
+      "deviceModels": "iPhone 13 Pro Max"
+    },
+    {
+      "id": 6,
+      "deviceBrands": "Apple",
+      "deviceModels": "iPhone 13 Pro"
+    },
+    {
+      "id": 7,
+      "deviceBrands": "Apple",
+      "deviceModels": "iPhone 13"
+    },
+    {
+      "id": 8,
+      "deviceBrands": "Apple",
+      "deviceModels": "iPhone 13 mini"
+    },
+    {
+      "id": 9,
+      "deviceBrands": "Apple",
+      "deviceModels": "iPhone 12 Pro Max"
+    },
+    {
+      "id": 10,
+      "deviceBrands": "Apple",
+      "deviceModels": "iPhone 12 Pro"
+    },
+    {
+      "id": 11,
+      "deviceBrands": "Apple",
+      "deviceModels": "iPhone 12"
+    },
+    {
+      "id": 12,
+      "deviceBrands": "Apple",
+      "deviceModels": "iPhone 12 mini"
+    },
+    {
+      "id": 13,
+      "deviceBrands": "Apple",
+      "deviceModels": "iPhone 11 Pro Max"
+    },
+    {
+      "id": 14,
+      "deviceBrands": "Apple",
+      "deviceModels": "iPhone 11 Pro"
+    },
+    {
+      "id": 15,
+      "deviceBrands": "Apple",
+      "deviceModels": "iPhone 11"
+    },
+    {
+      "id": 16,
+      "deviceBrands": "Apple",
+      "deviceModels": "iPhone XS Max"
+    },
+    {
+      "id": 17,
+      "deviceBrands": "Apple",
+      "deviceModels": "iPhone XS"
+    },
+    {
+      "id": 18,
+      "deviceBrands": "Apple",
+      "deviceModels": "iPhone X"
+    },
+    {
+      "id": 19,
+      "deviceBrands": "Apple",
+      "deviceModels": "iPhone XR"
+    },
+    {
+      "id": 20,
+      "deviceBrands": "Apple",
+      "deviceModels": "iPhone SE (3rd gen)"
+    },
+    {
+      "id": 21,
+      "deviceBrands": "Apple",
+      "deviceModels": "iPhone SE (2nd gen)"
+    },
+    {
+      "id": 22,
+      "deviceBrands": "Samsung",
+      "deviceModels": "Galaxy S23 Ultra"
+    },
+    {
+      "id": 23,
+      "deviceBrands": "Samsung",
+      "deviceModels": "Galaxy S23 Plus"
+    },
+    {
+      "id": 24,
+      "deviceBrands": "Samsung",
+      "deviceModels": "Galaxy S23"
+    },
+    {
+      "id": 25,
+      "deviceBrands": "Samsung",
+      "deviceModels": "Galaxy S22 Ultra"
+    },
+    {
+      "id": 26,
+      "deviceBrands": "Samsung",
+      "deviceModels": "Galaxy S22 Plus"
+    },
+    {
+      "id": 27,
+      "deviceBrands": "Samsung",
+      "deviceModels": "Galaxy S22"
+    },
+    {
+      "id": 28,
+      "deviceBrands": "Samsung",
+      "deviceModels": "Galaxy S21 Ultra"
+    },
+    {
+      "id": 29,
+      "deviceBrands": "Samsung",
+      "deviceModels": "Galaxy S21 Plus"
+    },
+    {
+      "id": 30,
+      "deviceBrands": "Samsung",
+      "deviceModels": "Galaxy S21"
+    },
+    {
+      "id": 31,
+      "deviceBrands": "Samsung",
+      "deviceModels": "Galaxy S21 FE"
+    },
+    {
+      "id": 32,
+      "deviceBrands": "Samsung",
+      "deviceModels": "Galaxy S20 Ultra"
+    },
+    {
+      "id": 33,
+      "deviceBrands": "Samsung",
+      "deviceModels": "Galaxy S20 Plus"
+    },
+    {
+      "id": 34,
+      "deviceBrands": "Samsung",
+      "deviceModels": "Galaxy S20"
+    },
+    {
+      "id": 35,
+      "deviceBrands": "Samsung",
+      "deviceModels": "Galaxy S20 FE"
+    },
+    {
+      "id": 36,
+      "deviceBrands": "Samsung",
+      "deviceModels": "Galaxy S10 Plus"
+    },
+    {
+      "id": 37,
+      "deviceBrands": "Samsung",
+      "deviceModels": "Galaxy S10 5G"
+    },
+    {
+      "id": 38,
+      "deviceBrands": "Samsung",
+      "deviceModels": "Galaxy S10"
+    },
+    {
+      "id": 39,
+      "deviceBrands": "Samsung",
+      "deviceModels": "Galaxy S10e"
+    },
+    {
+      "id": 40,
+      "deviceBrands": "Samsung",
+      "deviceModels": "Note 20 Ultra"
+    },
+    {
+      "id": 41,
+      "deviceBrands": "Samsung",
+      "deviceModels": "Note 20"
+    },
+    {
+      "id": 42,
+      "deviceBrands": "Samsung",
+      "deviceModels": "Note 10 Plus"
+    },
+    {
+      "id": 43,
+      "deviceBrands": "Samsung",
+      "deviceModels": "Note 10"
+    },
+    {
+      "id": 44,
+      "deviceBrands": "Samsung",
+      "deviceModels": "Note 9"
+    }
+  ]
+}

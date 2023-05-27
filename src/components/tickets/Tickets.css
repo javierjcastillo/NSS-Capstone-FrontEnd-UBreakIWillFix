@@ -1,0 +1,60 @@
+.tickets {
+    display: flex;
+    flex-direction: column;
+    color: black;
+}
+
+.ticket {
+    background-color: #e5e5f7;
+    box-shadow: 0 0 25px 0 black;
+    font-family: sans-serif;
+    font-weight: 750;
+    font-size: 1.5rem;
+    border: 1px dotted darkgray;
+    padding: 0.7rem;
+    margin: 0.5rem 0;
+}
+
+.RQTitle {
+    margin-top: 3rem;
+    font-size: 3.5rem;
+    color: black;
+}
+
+.ticketForm__title {
+    margin-top: 3rem;
+    font-size: 3.5rem;
+    color: black;
+}
+
+.text {
+    margin-left: 2rem;
+    
+}
+
+h2 {
+    margin-left: 1rem;
+}
+
+.myButton {
+	box-shadow: 0px 0px 0px 0px #ffffff;
+	background-color:transparent;
+	border-radius:20px;
+	display:inline-block;
+	cursor:pointer;
+	color:#000000;
+	font-family:Arial;
+	font-size:28px;
+	font-weight:bold;
+	padding:24px 45px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #ffffff;
+}
+.myButton:hover {
+	background-color:transparent;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
